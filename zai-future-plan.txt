@@ -1,5 +1,8 @@
 ZAI FUTURE PLAN
-- belajar C
-- belajar C#
-- belajar C++
-- belajar framework bahasa C
+- belajar laravel
+- belajar mongodb
+- belajar node js
+- belajar react js
+- belajar vue js
+- belajar three js
+
