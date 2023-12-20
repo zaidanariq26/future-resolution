@@ -3,3 +3,6 @@ ZAI FUTURE PLAN
 - belajar mongodb
 - belajar node js
 - belajar react js
+- belajar vue js
+- belajar three js
+
