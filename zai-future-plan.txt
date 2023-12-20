@@ -1,3 +1,5 @@
 ZAI FUTURE PLAN
 - belajar laravel
 - belajar mongodb
+- belajar node js
+- belajar react js
