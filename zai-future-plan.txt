@@ -2,3 +2,4 @@ ZAI FUTURE PLAN
 - belajar C
 - belajar C#
 - belajar C++
+- belajar framework bahasa C
