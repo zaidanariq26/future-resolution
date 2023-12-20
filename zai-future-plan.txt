@@ -1,2 +1,3 @@
 ZAI FUTURE PLAN
--tes
+- belajar laravel
+- belajar mongodb
